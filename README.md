@@ -1,2 +1,55 @@
-# Deep-Learning-Study-Portfolio
-A structured deep learning portfolio covering core concepts from fundamentals to advanced topics with experiments, visualizations, and analysis using PyTorch.
+# Deep Learning Study Portfolio
+
+This repository documents my structured journey in deep learning, covering core concepts through hands-on experiments, visualizations, and analysis.
+
+## Objective
+To build a strong foundation in deep learning by implementing and analyzing key concepts step by step.
+
+## 📚 Structure
+
+Each study includes:
+- 📓 Notebook (implementation)
+- 📊 Visuals (graphs and results)
+- 📄 README (concept explanation + observations)
+
+## 📂 Studies
+-
+-
+-
+-
+-
+- Study06 – Heuristics in Backpropagation 
+
+##  Topics Covered
+
+- Neural Networks
+- Backpropagation
+- Optimization Techniques
+- Learning Rate Scheduling
+- Heuristics in Training
+
+##  Tech Stack
+
+- Python
+- PyTorch
+- NumPy
+- Matplotlib
+
+##  Goal
+
+To build a complete, well-documented deep learning repository from basics to advanced architectures like CNNs and beyond.
+
+---
+
+## Highlights
+
+- Clean and modular code
+- Experiment-based learning
+- Visual comparison of models
+- Real understanding of training behavior
+
+---
+
+##  Author
+
+**Osam Sami**
