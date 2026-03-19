@@ -5,7 +5,7 @@ This repository documents my structured journey in deep learning, covering core 
 ## Objective
 To build a strong foundation in deep learning by implementing and analyzing key concepts step by step.
 
-## 📚 Structure
+##  Structure
 
 Each study includes:
 - 📓 Notebook (implementation)
@@ -15,7 +15,7 @@ Each study includes:
 ## 📂 Studies
 -
 -
--
+- Study03 - MLP & Backpropagation(Basic XOR)
 -
 -
 - Study06 – Heuristics in Backpropagation 
