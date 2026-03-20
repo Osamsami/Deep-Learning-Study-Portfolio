@@ -16,7 +16,7 @@ Each study includes:
 -
 -
 - Study03 - MLP & Backpropagation(Basic XOR)
--
+- Study04 - Image Classification (using MLP)
 -
 - Study06 – Heuristics in Backpropagation 
 
@@ -24,6 +24,7 @@ Each study includes:
 
 - Neural Networks
 - Backpropagation
+- Image Classification
 - Optimization Techniques
 - Learning Rate Scheduling
 - Heuristics in Training
