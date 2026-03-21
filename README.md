@@ -40,7 +40,7 @@ Each study includes:
 
 ##  Goal
 
-To build a complete, well-documented deep learning repository from basics to advanced architectures like CNNs and beyond.
+To build a complete, well-documented deep learning repository from basics to advanced architectures.
 
 ---
 
