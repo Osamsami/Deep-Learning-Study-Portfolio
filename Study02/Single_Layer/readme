@@ -1,0 +1,25 @@
+# Study02 - Single Layer Perceptron
+
+## Overview
+This study implements:
+- Artificial Neuron
+- Step Activation Function
+- Single Layer Perceptron
+- Binary Classification (AND gate)
+
+## Key Concepts
+- Weighted Sum (z = wx + b)
+- Activation Function
+- Perceptron Learning Rule
+- Decision Boundary
+
+## Visual Outputs
+Saved in /Visuals:
+- loss_plot.png
+- decision_boundary.png
+
+## Limitation
+Perceptron cannot solve XOR (non-linear problem)
+
+## Conclusion
+This study demonstrates how a basic neural network learns and why deeper networks are needed.
