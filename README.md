@@ -13,8 +13,8 @@ Each study includes:
 - 📄 README (concept explanation + observations)
 
 ## 📂 Studies
--
--
+- Study01 - ANN (preprocessing/image resizing)
+- Study02 - Single layer percentron & ANN
 - Study03 - MLP & Backpropagation(Basic XOR)
 - Study04 - Image Classification (using MLP)
 -
