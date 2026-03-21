@@ -1,0 +1,25 @@
+# Study01 - Basic Preprocessing
+
+## Overview
+This study focuses on foundational concepts required for Deep Learning:
+- Python basics
+- NumPy operations
+- Data visualization
+- Dataset loading
+- Image preprocessing
+
+## Key Concepts
+- Vector & Matrix operations
+- Dot product (core of neural networks)
+- Data visualization using matplotlib
+- Dataset handling using pandas
+- Preprocessing using torchvision
+
+## Visual Outputs
+Saved in /Visuals:
+- line_plot.png
+- scatter_plot.png
+- iris_plot.png
+
+## Conclusion
+This study builds the base for ANN and Deep Learning by preparing data properly before training models.
