@@ -23,6 +23,8 @@ Each study includes:
 ##  Topics Covered
 
 - Neural Networks
+- Single layer neural network
+- Forward propagation
 - Backpropagation
 - Image Classification
 - Optimization Techniques
