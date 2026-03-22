@@ -17,7 +17,7 @@ Each study includes:
 - Study02 - Single layer percentron & ANN
 - Study03 - MLP & Backpropagation(Basic XOR)
 - Study04 - Image Classification (using MLP)
--
+- Study05 - Gradient Descent Optimizer (Applying: image Dataset)
 - Study06 – Heuristics in Backpropagation 
 
 ##  Topics Covered
